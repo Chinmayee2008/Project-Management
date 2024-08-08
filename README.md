@@ -1,1 +1,1 @@
-Project using Agile methodology and Scrum 
+Agile methodology and Scrum 
